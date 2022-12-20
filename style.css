@@ -73,7 +73,7 @@ a{
 .icons li:not(:last-child){
     margin-right: 1.5rem;
 }
-.icons li a img{
+.icons li img{
     width:20px;
     height:20px;
     object-fit:cover;
