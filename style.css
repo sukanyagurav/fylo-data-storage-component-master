@@ -104,7 +104,7 @@ a{
 }
 .storage_usage .storage__used {
     padding-top:1.5rem;
-    font-size: 0.95rem;
+    font-size: 0.9rem;
 color: var(--pale-blue);
 }
 .storage_left{
